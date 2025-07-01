@@ -1,0 +1,5 @@
+raw_prompt = "tell me about ai"
+📝 Refined Prompt: What is an AI?
+
+✅ Final Answer:
+ a machine that can essentially control all machines
